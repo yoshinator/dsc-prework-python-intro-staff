@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-This short lesson summarizes the topics we'll be covering in section 1 and why they'll be important to you as a Data Scientist.
+In this section, you'll learn about one of the core topics required for data science: coding! You'll get exposed to python fundamentals as well as a brief introduction to data visualization.
 
 ## Objectives
 You will be able to:
@@ -15,7 +15,7 @@ We start this section by looking at the kinds of problems that data science can 
 
 We also run you through the workflow that we'll be using for the projects so you can get comfortable with how to access and update content and get some practice using the industry standard tools we just set you up with! And then to bring it all together, we ask you to "code along" with us to complete your first (very simple) data science project.
 
-If you're new to Python (or programming), you may be a little overwhelmed at this point. Don't worry. We'll spend all of the rest of the course practicing and deepening your understanding of the materials we introduced in the first part of section 1.
+If you're new to Python (or programming), you may be a little overwhelmed at this point. Don't worry. We'll spend all of the rest of the course practicing and deepening your understanding of the materials we introduced in the first part of the section.
 
 ## Coding in Python 
 
@@ -31,4 +31,4 @@ You will learn to plot some basic visualizations for simple datasets. These will
 
 ## Summary
 
-Remember, it's OK to feel a little uncomfortable. For some students, section 1 will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've tried to introduce additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
+Remember, it's OK to feel a little uncomfortable. For some students, this section will be the most difficult as it introduces so many new concepts at once, but you'll continue to practice these day after day, until they become second nature. For those of you with a strong background in computing, please bear with us as we help everyone else to catch up. We've tried to introduce additional challenges for students who are finding the labs easy, so look out for the "Level Up (optional)" section in some of the labs to get some deeper practice with Python and visualization.
