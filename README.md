@@ -2,7 +2,7 @@
 # Introduction
 
 ## Introduction
-In this section, you'll learn about one of the core topics required for data science: coding! You'll get exposed to the fundamentals of Python as well as a brief introduction to data visualization.
+In this section, you'll learn about one of the core topics required for data science: coding! You'll get exposed to the fundamentals of Python as well as a brief introduction to data visualization. 
 
 ## Objectives
 You will be able to:
