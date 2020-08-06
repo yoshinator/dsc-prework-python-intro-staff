@@ -13,7 +13,7 @@ If you're new to Python (or programming), at times you may feel a little overwhe
 
 We take a little bit of time to introduce you to `Matplotlib` - one of the most popular tools in Python for generating visualizations.
 
-<img src="images/matplotlib.jpg" width="450">
+<img src="https://raw.githubusercontent.com/learn-co-curriculum/dsc-prework-python-intro/curriculum/images/matplotlib.jpg" width="450">
 
 You will also use some simple datasets to generate bar graphs, histograms, and scatter plots. 
 
